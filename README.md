@@ -2,6 +2,7 @@
 # Hello friends 🖐️
 
 ![image](https://github.com/JayHong2/JayHong/assets/111958595/147c5f0b-ba0c-45dd-9453-4dc8e4e9f1f4)
+![image](https://github.com/JayHong2/JayHong/assets/111958595/3b17703e-e8b3-4be1-8862-65054f3c2854)
 
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
