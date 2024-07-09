@@ -1,4 +1,4 @@
-# I'm JayH ong
+# I'm Jay Hong
 # Hello friends 🖐️
 
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
