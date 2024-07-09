@@ -1,6 +1,8 @@
 # I'm Jay Hong
 # Hello friends 🖐️
 
+![image](https://github.com/JayHong2/JayHong/assets/111958595/147c5f0b-ba0c-45dd-9453-4dc8e4e9f1f4)
+
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
 # 📖 Table of Contents
