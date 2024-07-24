@@ -35,4 +35,7 @@ I am a software developer specializing in semiconductor and display equipment so
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/JayHong2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jhnet0215g@gmail.com)
 
+### 📺 Featured Video: TOF-MEIS (HB Solution Co., Ltd.)
+[![TOF-MEIS (HB Solution Co., Ltd.)](https://img.youtube.com/vi/VgzVz7TlbPs/0.jpg)](https://www.youtube.com/watch?v=VgzVz7TlbPs)
+
 ![HTML5](https://img.shields.io/badge/HTML5-Creating%20the%20Future%20of%20Web%20Development-orange)
